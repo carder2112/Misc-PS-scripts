@@ -1,0 +1,56 @@
+﻿**********************
+Windows PowerShell transcript start
+Start time: 20241001124231
+Username: CARBOLINE\CarderM
+RunAs User: CARBOLINE\CarderM
+Configuration Name: 
+Machine: CAR-HQ-MATTC (Microsoft Windows NT 10.0.22621.0)
+Host Application: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -file  C:\Users\carderm\OneDrive - RPM Performance Coatings\Desktop\New folder\AuditInfo.ps1 
+Process ID: 26780
+PSVersion: 5.1.22621.4111
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.22621.4111
+BuildVersion: 10.0.22621.4111
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is C:\Users\carderm\OneDrive - RPM Performance Coatings\Documents\PowerShell_transcript.CAR-HQ-MATTC.q+nrrDFB.20241001124231.txt
+CAR-HQ-MATTC
+Alias name     administrators
+Comment        Administrators have complete and unrestricted access to the computer/domain
+
+Members
+
+-------------------------------------------------------------------------------
+CANADA\Desktop Admins
+CARBOLINE\Desktop Admins
+localadmin
+PCGEMEA\Desktop Admins
+STONCOR\chiefm
+STONCOR\Desktop Admins
+The command completed successfully.
+SerialNumber
+5CG3127CYH
+InstallDate  Name                           Version
+20240314     CrowdStrike Device Control     7.10.18083.0
+20240820     CrowdStrike Sensor Platform    7.15.18514.0
+20240604     CrowdStrike Firmware Analysis  7.14.18456.0
+InstallDate  Name                                   Version
+20240830     Microsoft Intune Management Extension  1.81.107.0
+
+Source        Description      HotFixID      InstalledBy          InstalledOn
+------        -----------      --------      -----------          -----------
+CAR-HQ-MATTC  Update           KB5042099     NT AUTHORITY\SYSTEM  8/15/2024 12:00:00 AM
+CAR-HQ-MATTC  Security Update  KB5012170     NT AUTHORITY\SYSTEM  4/14/2023 12:00:00 AM
+CAR-HQ-MATTC  Security Update  KB5043076     NT AUTHORITY\SYSTEM  9/11/2024 12:00:00 AM
+CAR-HQ-MATTC  Security Update  KB5043937     NT AUTHORITY\SYSTEM  9/11/2024 12:00:00 AM
+
+
+PS>$global:?
+True
+**********************
+Windows PowerShell transcript end
+End time: 20241001124403
+**********************
